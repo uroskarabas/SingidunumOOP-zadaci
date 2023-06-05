@@ -5,4 +5,5 @@ Meaning for shorthand naming of files.
   - OOP = objektno orijentisano programiranje
   - N01 = nedelja prva
   - PR01 = primer prvi
+  - D = domaci
 ...
